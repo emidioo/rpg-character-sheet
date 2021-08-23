@@ -1,10 +1,10 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
+  name: 'Nathaniel Ferreira',
+  player: 'Emídio',
+  occupation: 'Cientista Forence',
   age: 21,
   sex: 'male',
-  birthplace: 'São paulo',
+  birthplace: 'Uberlandia',
   residence: 'São paulo',
 
   life: {
